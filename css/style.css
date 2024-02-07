@@ -79,6 +79,10 @@ main {
 .subscription .title {
     font-size: 18px;
 }
+
+.subscription .per {
+    color: var(--lgray);
+}
 .price-wrap {
     display: flex;
     margin-top: 16px;
